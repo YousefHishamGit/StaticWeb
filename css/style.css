@@ -204,7 +204,7 @@ img {
 
 #Art {
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 15%;
     .card {
         i {
             color: rgb(106, 106, 239);
@@ -234,8 +234,8 @@ img {
 }
 
 #Gall {
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 15%;
+    margin-bottom: 15%;
     position: relative;
     .card {
         border: 0;
@@ -295,8 +295,8 @@ img {
 }
 
 #Feat {
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 15%;
+    margin-bottom: 15%;
     position: relative;
     .Text {
         width: fit-content;
@@ -517,8 +517,8 @@ img {
 }
 
 #Skill {
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 15%;
+    margin-bottom: 15%;
     position: relative;
     .Text {
         width: fit-content;
